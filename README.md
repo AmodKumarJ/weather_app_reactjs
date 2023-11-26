@@ -1,4 +1,5 @@
-![Screenshot 2023-11-26 160904](https://github.com/AmodKumarJ/weather_app_reactjs/assets/120616034/2d47380f-c5fc-47d9-a5bb-3b8c4351768d)
+![Screenshot 2023-11-26 161311](https://github.com/AmodKumarJ/weather_app_reactjs/assets/120616034/52b58d2d-e89b-4a68-bae9-6ea25fb0639a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
