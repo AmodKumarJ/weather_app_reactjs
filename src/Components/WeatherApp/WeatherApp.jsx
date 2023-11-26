@@ -27,7 +27,7 @@ const WeatherApp = () => {
 
         humidity[0].innerHTML = data.main.humidity
         wind[0].innerHTML = data.wind.speed
-        temprature[0].innerHTML = data.main.temp
+        temprature[0].innerHTML = data.main.temp+"°C"
         location[0].innerHTML = data.name
     }
 
